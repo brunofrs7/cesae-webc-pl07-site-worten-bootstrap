@@ -25,19 +25,19 @@ Este projeto é **estritamente educacional** e não possui qualquer afiliação 
 ---
 
 ## 🗂️ Estrutura de Pastas
-/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── img/
-│   └── ...
-├── pages/
-│   ├── index.html
-│   ├── sobre.html
-│   ├── produtos.html
-│   ├── promocoes.html
-│   └── contactos.html
-└── README.md
+/  
+├── assets/  
+│   ├── css/  
+│   ├── js/  
+│   ├── img/  
+│   └── ...  
+├── pages/  
+│   ├── index.html  
+│   ├── sobre.html  
+│   ├── produtos.html  
+│   ├── promocoes.html  
+│   └── contactos.html  
+└── README.md  
 
 ---
 
